@@ -9,8 +9,9 @@ Milky는 사용자 정보(위치, 선호 음악 장르, 무드)를 바탕으로 
 ## Using Libraries
 ![soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNM_0bd4GgCPTwH_TMv5xqxro6T95oLxlIDA&s" alt="Google Maps APIs" height="28px"/>
-<img src="https://my-first-website-328020.firebaseapp.com/assets/img/homepage/weatherAPI.png" alt="weather api" height="28px" style="background-color: white;"/>
-<img src="https://i.namu.wiki/i/I1-Vu6BMMq0hDFKNuRnjwMjJFztpRHkLY4Ij0zeKdCGA9XsSogCwu7TWx_6MP5Qbd0pSYEydGeNunsMvexzkjw.svg" alt="perplexity" height="28px" style="background-color: white;"/>
+
+<img src="https://cdn.weatherapi.com/v4/images/weatherapi_logo.png" alt="weather api" height="28px"/>
+<img src="https://logos-world.net/wp-content/uploads/2023/08/Perplexity-Logo.jpg" alt="perplexity" height="28px">
 
 ## Requirements
 - Node.js (v22)
